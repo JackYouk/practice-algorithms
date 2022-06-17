@@ -1,4 +1,4 @@
-const daysOftheWeekArr = ['sunday', 'monday', 'tuesday', 'thursday', 'friday', 'saturday'];
+const daysOftheWeekArr = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
 
 function findDay(num){
     let numDay = daysOftheWeekArr[num];
